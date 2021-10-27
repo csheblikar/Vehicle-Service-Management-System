@@ -6,3 +6,4 @@ The real power of this project lies not in direct selling of products, but in th
 
 # Software Specifications
 Operating System: Windows/Linux
+Programming language: PHP
