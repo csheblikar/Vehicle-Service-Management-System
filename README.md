@@ -9,4 +9,10 @@ Operating System: Windows/Linux
 
 Programming language: PHP
 
+Web-Technology: Open Source
+
 Front-End: PHP
+
+Back-End: MySQL
+
+Web Server: Apache
